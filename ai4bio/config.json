@@ -1,0 +1,5 @@
+{
+    "train_mode": {"type":"str","default":"classic"},
+    "loss_func": {"type":"str","default":"cross_entropy"},
+    "lr":{"type":"int","default":1}
+}

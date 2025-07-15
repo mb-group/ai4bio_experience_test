@@ -50,3 +50,4 @@ python ai4bio/train_model.py --project_name="project_name_x" --my_data_ready_dir
 See what new files are generated under ```Experiment_RUNS_BY_Projects/```
 
 ## Post-analysis
+Open up the jupyter notebook [post_analysis/examine_log.ipynb](ost_analysis/examine_log.ipynb)
